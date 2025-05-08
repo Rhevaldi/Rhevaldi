@@ -1,7 +1,6 @@
 ## 'Hello World!! I'm Rhevaldi'; 👋
  ![Rhevaldi](
-    ![Uploading 108b2dd50578389fcabb7cc343be939b.jpg…]()
-
+    https://i.pinimg.com/736x/10/8b/2d/108b2dd50578389fcabb7cc343be939b.jpg
  )
 <!--
 **Rhevaldi/Rhevaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
