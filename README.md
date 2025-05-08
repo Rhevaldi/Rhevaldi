@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE5YBiIlju16g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739029138986?e=1752105600&v=beta&t=EfHNKh5kGkubNuXL-cW1pQZdeeNYHPa3WKUkcySYpBU" alt="Rhevaldi" width="150" height="100"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE5YBiIlju16g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739029138986?e=1752105600&v=beta&t=EfHNKh5kGkubNuXL-cW1pQZdeeNYHPa3WKUkcySYpBU" alt="Rhevaldi" width="1000" height="100"/>
 </p>
 
 - 🔭 I’m currently learning **HTML, CSS, JavaScript, and PHP**
