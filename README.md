@@ -36,6 +36,4 @@
 
 ---
 
-### 📫 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammadrhevaldia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammadrhevaldia" height="30" width="
+
