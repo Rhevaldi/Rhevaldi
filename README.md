@@ -1,5 +1,5 @@
 <h1 align="center">Hello World; 👋, I'm Muhammad Rhevaldi</h1>
-<h3 align="center">A passionate beginner programmer from Indonesia</h3>
+<h3 align="center">From Indonesia</h3>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4E03AQEoT7ZQ1zBjHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722527889603?e=1752105600&v=beta&t=a7FQT4qWvqgypwEoetwsMxq0tqO-HOpshQh_vyJwue0" alt="Rhevaldi" width="100" height="100"/>
