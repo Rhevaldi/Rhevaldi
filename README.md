@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## 'Hello World!! I'm Rhevaldi'; 👋
+ ![Rhevaldi](
+    img/img.jpg
+ )
 <!--
 **Rhevaldi/Rhevaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ⚡ Fun fact: I'm a **Introvert** People
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework 
+
+![Haikyu](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDN2b2Y0b295eXpxa3BkcXBpYmVpN3ljZmhoaG9xdnFpNnMzOWo5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uQIB21R9W76og/giphy.gif)
