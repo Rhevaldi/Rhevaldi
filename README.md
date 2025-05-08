@@ -2,11 +2,11 @@
 <h3 align="center">A passionate beginner programmer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEoT7ZQ1zBjHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722527889603?e=1752105600&v=beta&t=a7FQT4qWvqgypwEoetwsMxq0tqO-HOpshQh_vyJwue0" alt="Rhevaldi" width="80" height="200"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEoT7ZQ1zBjHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722527889603?e=1752105600&v=beta&t=a7FQT4qWvqgypwEoetwsMxq0tqO-HOpshQh_vyJwue0" alt="Rhevaldi" width="100" height="100"/>
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE5YBiIlju16g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739029138986?e=1752105600&v=beta&t=EfHNKh5kGkubNuXL-cW1pQZdeeNYHPa3WKUkcySYpBU" alt="Rhevaldi" width="80" height="80"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE5YBiIlju16g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1739029138986?e=1752105600&v=beta&t=EfHNKh5kGkubNuXL-cW1pQZdeeNYHPa3WKUkcySYpBU" alt="Rhevaldi" width="150" height="100"/>
 </p>
 
 - 🔭 I’m currently learning **HTML, CSS, JavaScript, and PHP**
