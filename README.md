@@ -33,17 +33,9 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" alt="Rhevaldi"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight" alt="Rhevaldi"/>
-</p>
 
 ---
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammadrhevaldia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yourlinkedin" height="30" width="
+  <a href="https://www.linkedin.com/in/muhammadrhevaldia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhammadrhevaldia" height="30" width="
