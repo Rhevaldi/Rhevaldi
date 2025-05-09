@@ -12,12 +12,12 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently learning **HTML, CSS, JavaScript, and PHP**  
-- 🌱 Eager to grow in **web development**  
-- 👯 Looking to collaborate on **small & simple projects**  
-- 💬 Ask me about: **basic programming and web development**  
-- 📫 Reach me: **rhevaldy8889@gmail.com**  
-- ⚡ Fun fact: I enjoy turning ideas into real things!
+- 🔭 Saat ini saya sedang belajar **HTML, CSS, JavaScript, dan PHP**  
+- 🌱 Saya ingin terus berkembang di dunia **pengembangan web**  
+- 👯 Tertarik untuk berkolaborasi dalam **proyek-proyek kecil untuk latihan**  
+- 💬 Tanya saya seputar: **dasar-dasar pemrograman dan web**  
+- 📫 Hubungi saya melalui: **rhevaldy8889@gmail.com**  
+- ⚡ Fakta menarik: Saya suka mengubah ide menjadi proyek nyata!
 
 ---
 
