@@ -2,7 +2,7 @@
 <h3 align="center">🌍 Web Developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEoT7ZQ1zBjHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722527889603?e=1752105600&v=beta&t=a7FQT4qWvqgypwEoetwsMxq0tqO-HOpshQh_vyJwue0" alt="Rhevaldi" width="120" height="120" style="border-radius:50%;" />
+  <img src="[https://media.licdn.com/dms/image/v2/D4E03AQEoT7ZQ1zBjHA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1722527889603?e=1752105600&v=beta&t=a7FQT4qWvqgypwEoetwsMxq0tqO-HOpshQh_vyJwue0](https://i.pinimg.com/736x/a6/a2/30/a6a230875cda5f14c6d7d088d9b04da4.jpg)" alt="Rhevaldi" width="120" height="120" style="border-radius:50%;" />
 </p>
 
 <p align="center">
