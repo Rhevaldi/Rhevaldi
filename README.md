@@ -2,7 +2,7 @@
 <h3 align="center">🌍 Web Developer from Indonesia</h3>
 
 <p align="center">
-  <img src="(https://i.pinimg.com/736x/a6/a2/30/a6a230875cda5f14c6d7d088d9b04da4.jpg)" alt="Rhevaldi" width="120" height="120" style="border-radius:50%;" />
+  <img src="https://i.pinimg.com/736x/a6/a2/30/a6a230875cda5f14c6d7d088d9b04da4.jpg" alt="Rhevaldi" width="120" height="120" style="border-radius:50%;" />
 </p>
 
 <p align="center">
