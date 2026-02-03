@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+beginner+web+developer;Always+learning+and+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4CAF50&center=true&width=435&lines=Welcome+to+my+GitHub!;I'm+a+web+developer;Always+learning+and+building" alt="Typing SVG" />
 </p>
 
 ---
